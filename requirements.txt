@@ -5,4 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+tensorflow
+joblib 
+torch
+warnings
 #-e .
